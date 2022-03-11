@@ -1,6 +1,5 @@
-## a fair evoting application to ensure correct election results with Hyperledger Fabric and IBM Blockchain Platform
-
-
+## A fair evoting application to ensure correct election results with Hyperledger Fabric and IBM Blockchain Platform
+#### Project by Iman Mohi
 
 <br>
 <p align="center">
